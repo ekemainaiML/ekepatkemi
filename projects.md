@@ -5,6 +5,17 @@ permalink: /projects/
 image: '/assets/images/lireg1.webp'
 ---
 
+<style>
+  .center {
+   text-align: center
+  }
+  body {
+      background-image: url('../assets/images/maximberg.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+</style>
 {% assign postitems = site.posts %}
 <html>
     <body class="projects-body">
