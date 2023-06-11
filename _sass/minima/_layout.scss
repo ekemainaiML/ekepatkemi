@@ -1,7 +1,8 @@
+
 /**
  * Site header
  */
-.site-header {
+ .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
@@ -175,6 +176,7 @@
 /**
  * Page content
  */
+
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
@@ -252,4 +254,144 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+.resume-body {
+  position: absolute;
+}
+
+.projects-body {
+  position: absolute;
+}
+
+.about-body {
+  position: absolute;
+}
+
+.home-body {
+  position: absolute;
+}
+
+/**
+  Resume list styling
+*/
+ol.resume-list1 li:before{
+  list-style: outside;
+  content: '👉 '
+}
+
+ol.resume-list2 li:before{
+  list-style: outside;
+  content: '😴 ';
+}
+ol.resume-list2 > li:nth-child(1)::before {
+  content: "🔁 ";
+}
+ol.resume-list2 > li:nth-child(30)::before {
+  content: "🔁 ";
+}
+ol.resume-list2 > li:nth-child(45)::before {
+  content: "🔁 ";
+}
+ol.resume-list2 > li:nth-child(59)::before {
+  content: "🔁 ";
+}
+ol.resume-list2 > li:nth-child(62)::before {
+  content: "🔁 ";
+}
+ol.resume-list2 > li:nth-child(67)::before {
+  content: "🔁 ";
+}
+
+ol.resume-list3 li:before{
+  list-style: outside;
+  content: '🏫';
+}
+
+ol.resume-list4 li:before{
+  list-style: outside;
+  content: '🏆 ';
+}
+
+ol.resume-list5 li:before{
+  list-style: outside;
+  content: '🛂 ';
+}
+
+ol.resume-list6 li:before{
+  list-style: outside;
+  content: '💪 ';
+}
+
+.project-title {
+   font-family: serif;
+   font-weight: 300; 
+   font-size: 36px; 
+   line-height: 1.4em; 
+   color: green;
+   text-align: center;
+}
+
+.project-description {
+  font-family: serif;
+  font-weight: 100; 
+  font-size: 20px; 
+  line-height: 1.4em; 
+  color: rgb(10, 10, 10);
+  text-align: center;
+}
+
+.project-button {
+  position: static;
+  border-radius: 15%;
+  border: crimson;
+  background-color: green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: dashed;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.share-page {
+  border: 2px solid black;
+  background-color: bisque;
+  color: light-color;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 0.2 * $spacing-unit 0;
+
+  a {
+      font-weight: 700;
+      color: #fff;
+      margin-left: 0px;
+
+      &:hover {
+          border-bottom: 1px dashed #fff;
+      }
+  }
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.row {
+  border: 2px solid black;
+  background-color: bisque;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
+}
+
+.row:hover {
+  opacity: 0.3;
+  background-color: aqua;
+}
+
+.column {
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+
 }
