@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<style>
-  .center {
-   text-align: center
-  }
-  body {
-      background-image: url('../assets/images/maximberg.jpg');
-      background-repeat: no-repeat;
-      background-attachment: fixed;  
-      background-size: cover; 
-    }
-</style>
 <body class="about-body">
 <h3 style="text-align: center;">MECHANICAL ENGINEER</h3>
 
