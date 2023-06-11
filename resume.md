@@ -5,7 +5,8 @@ permalink: /resume/
 image: '/assets/images/aronvisuals.jpg'
 ---
 
-<h3 style="text-align: center;">RESEARCH - HIGHLIGHTS/LEARNING OUTCOMES</h3>
+{{< rawhtml >}}
+  <h3 style="text-align: center;">RESEARCH - HIGHLIGHTS/LEARNING OUTCOMES</h3>
 <body class="resume-body">
 <div style='text-align: justify;'>
 
@@ -138,3 +139,4 @@ image: '/assets/images/aronvisuals.jpg'
 <li> Python in Data Analysis, Web Scraping, Machine Learning</li>
 </ol>
 </body>
+{{< /rawhtml >}}
