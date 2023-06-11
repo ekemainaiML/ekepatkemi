@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<style>
+  .center {
+   text-align: center
+  }
+  body {
+      background-image: url('../assets/images/maximberg.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+</style>
+<body class="about-body">
+<h3 style="text-align: center;">MECHANICAL ENGINEER</h3>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div style='text-align: justify;'>
+  Fifteen + years of mechanical experience in Oil/Gas, Construction, Solar Energy and Teaching covering five (10) years in oil/gas plant commissioning, operation and maintenance, (4) years in road construction and supervision, and (1) year in design and installation of Solar Systems. Demonstrated ability to train and lead others to perform productively and efficiently. Strong communication skills. Comfortable in Fast-paced, high-stress environments requiring attention to detail. Ability to meet stringent deadlines, and quick adaptation to constantly changing priorities. Desire to secure a role as a Mechanical Engineering Designer with a fast-paced organization to help in making use of technology in solving relative problems.
+</div>
+  
+</body>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
