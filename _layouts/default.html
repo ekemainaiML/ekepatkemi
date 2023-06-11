@@ -1,19 +1,35 @@
+<style>
+  .center {
+   text-align: center
+  }
+  body {
+      background-image: url('../assets/images/maximberg.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+  </style>
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+   
   {%- include head.html -%}
 
   <body>
-
+    
     {%- include header.html -%}
-
+    
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      <div class="header-col header-col-3" style=" height: 10%;">
+        <p style="margin: 40px 85mm 0% 20em; text-align: justify;">{{- site.description | escape -}}</p>
+      </div>
+      <div class="wrapper" style="margin-top: 90px;">
         {{ content }}
       </div>
     </main>
 
     {%- include footer.html -%}
+    <p class="center">Copyright © 2023 | Ekemini Stephen</p>
 
   </body>
 
