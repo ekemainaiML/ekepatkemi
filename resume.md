@@ -4,7 +4,17 @@ title: Resume
 permalink: /resume/
 image: '/assets/images/aronvisuals.jpg'
 ---
-
+<style>
+  .center {
+   text-align: center
+  }
+  body {
+      background-image: url('../assets/images/maximberg.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+</style>
 <h3 style="text-align: center;">RESEARCH - HIGHLIGHTS/LEARNING OUTCOMES</h3>
 <body class="resume-body">
 <div style='text-align: justify;'>
