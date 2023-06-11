@@ -4,3 +4,17 @@
 
 layout: home
 ---
+---
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+  background-image: url("{{site.baseurl}}/assets/images/maximberg.jpg");
+}
+</style>
+</head>
+<body>
+    
+</body>
+</html>
