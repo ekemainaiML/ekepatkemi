@@ -27,7 +27,7 @@ description: "Supervised machine learning, unsupervised machine learning, deep l
               through generated emedded code. I have documented the rest of my projects herewith, 
               with links to the code, blog posts and deployed projects."
 email: santacbax@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ekepatkemi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ekemainai
 github_username:  ekemainai1
