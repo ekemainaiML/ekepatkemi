@@ -26,7 +26,7 @@ description: "Supervised machine learning, unsupervised machine learning, deep l
               equipment, conducting Hardware-In-the-Loop (HIL) and Software-In-the-Loop (SIL) testing 
               through generated emedded code. I have documented the rest of my projects herewith, 
               with links to the code, blog posts and deployed projects."
-email: santacbax@gmail.com
+email: "" #santacbax@gmail.com
 baseurl: "/ekepatkemi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ekemainai
