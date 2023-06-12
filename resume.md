@@ -138,5 +138,4 @@ image: '/assets/images/aronvisuals.jpg'
 <li> Java and Kotlin in Mobile App Development</li> 
 <li> Python in Data Analysis, Web Scraping, Machine Learning</li>
 </ol>
-</body>
 {{< /rawhtml >}}
