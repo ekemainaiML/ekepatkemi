@@ -25,7 +25,7 @@ image: '/assets/images/lireg1.webp'
         </a>
         <div class="share-page">
             <button id="btn1" class="project-button" type="button">
-                <a href="https://github.com/ekemainaiML/ekemainaiMl.github.io.git?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.github_username }}&related={{ site.github_username }}" rel="nofollow" target="_blank" title="Code on Github">Code</a>
+                <a href="https://github.com/ekemainaiML/syncwebapp.git?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.github_username }}&related={{ site.github_username }}" rel="nofollow" target="_blank" title="Code on Github">Code</a>
             </button>
             <button id="btn2" class="project-button" type="button">
                 <a href="https://ekemainaiml-syncwebapp-app-aysnd9.streamlit.app?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.strealit_username }}&related={{ site.streamlit_username }}" rel="nofollow" target="_blank" title="App on Streamlit Cloud">Deployed App</a>
