@@ -44,7 +44,7 @@ image: '/assets/images/aronvisuals.jpg'
   <div class="container">
     <img class="image" src="{{ "/assets/images/profile.jpeg" | relative_url }}" alt="Image">
     <div class="text">
-      <p style="text-align: justify;">Results-driven Mobile Developer and ML Developer with 5+ years of experience in designing and developing innovative mobile and ML/DL applications. Proficient in iOS/Android platforms, Data Analytics, Data Pipelines, ML Model Developments, and MLOps, with a proven track record of timely delivery of high-quality products. Skilled in collaborating with cross-functional teams to implement user-friendly interfaces and enhance user experience. Seeking a challenging position to utilize my expertise and contribute to the success of a dynamic organization.</p>
+      <p style="text-align: justify;">Results-driven Mobile Developer and ML Developer with 5+ years of experience in designing and developing innovative mobile and ML/DL applications. Proficient in Android platforms, Data Analytics, Data Pipelines, ML Model Developments, and MLOps, with a proven track record of timely delivery of high-quality products. Skilled in collaborating with cross-functional teams to implement user-friendly interfaces and enhance user experience. Seeking a challenging position to utilize my expertise and contribute to the success of a dynamic organization.</p>
     </div>
   </div>
 </body>
@@ -55,9 +55,21 @@ image: '/assets/images/aronvisuals.jpg'
 <ol class="resume-list2" style="list-style-type: none">
 
 <div class="resumecontainer">
+<h5>01/2021 – PRESENT, LONDON, UK</h5>
+<h4>Senior Android Developer</h4>
+<h4>Leytro Limited</h4>
+</div>
+<ol style="list-style-type: none; text-align: justify;">
+<li>Led a team of junior developers in the successful development and launch of a high-performance cross platform mobile application, using Flutter and Backend powered by Azure cloud services, resulting in a 23% increase in user engagement and a 17% boost in revenue.</li>
+<li>Developed and maintained a robust codebase for multiple mobile platforms (Android), implementing best practices and optimizing performance, resulting in a 22% reduction in app crashes and a 32% improvement in loading times.</li>
+<li>Collaborated with cross-functional teams (designers, product managers, and QA teams) to create user-friendly and intuitive mobile interfaces, resulting in a 15% increase in user satisfaction and a 10% decrease in support tickets.</li>
+<li>Implemented agile development methodologies, including continuous integration, continuous delivery, and automated testing, resulting in a 20% reduction in development time and a 10% increase in overall team productivity.</li>
+</ol>
+
+<div class="resumecontainer">
 <h5>10/2019 – 12/2020, UYO, NIGERIA</h5>
 <h4>Android developer</h4>
-<h4>Start Innovation Hub</h4></div>
+<h4>Google Developers Scholarship Community Project </h4></div>
 
 <ol style="list-style-type: none; text-align: justify;">
 <li>Developed and implemented innovative features for Android application for live streaming and VOD (Video On Demand), resulting in a 20% increase in user engagement and a 15% decrease in app loading time.</li>
@@ -66,29 +78,6 @@ image: '/assets/images/aronvisuals.jpg'
 <li>Conducted thorough code reviews and implemented best practices to ensure adherence to industry standards and maintain high code quality, resulting in streamlined development processes and faster time to market for new app releases through well orchestrated CI/CD pipelines.</li>
 </ol>
 
-<div class="resumecontainer">
-<h5>01/2021 – PRESENT, LONDON, UK</h5>
-<h4>Senior Mobile Developer</h4>
-<h4>Leytro Limited</h4>
-</div>
-<ol style="list-style-type: none; text-align: justify;">
-<li>Led a team of junior developers in the successful development and launch of a high-performance cross platform mobile application, using Flutter and Backend powered by Azure cloud services, resulting in a 23% increase in user engagement and a 17% boost in revenue.</li>
-<li>Developed and maintained a robust codebase for multiple mobile platforms (iOS and Android), implementing best practices and optimizing performance, resulting in a 22% reduction in app crashes and a 32% improvement in loading times.</li>
-<li>Collaborated with cross-functional teams (designers, product managers, and QA teams) to create user-friendly and intuitive mobile interfaces, resulting in a 15% increase in user satisfaction and a 10% decrease in support tickets.</li>
-<li>Implemented agile development methodologies, including continuous integration, continuous delivery, and automated testing, resulting in a 20% reduction in development time and a 10% increase in overall team productivity.</li>
-</ol>
-
-<div class="resumecontainer">
-<h5>03/2023 – PRESENT, IKOT EKPENE, NIGERIA</h5>
-<h4>Machine Learning Developer</h4>
-<h4>Asan Limited</h4>
-</div>
-<ol style="list-style-type: none; text-align: justify;">
-<li>Developed and implemented machine learning models to analyze and extract insights from large datasets, resulting in a 20% increase in prediction accuracy for a financial services company.</li>
-<li>Collaborated closely with cross-functional teams to design and deploy scalable machine learning pipelines, reducing data processing time by 30% and enabling real-time data analysis for a healthcare startup.</li>
-<li>Conducted thorough data analysis and feature engineering to identify key variables and patterns, leading to the development of a churn prediction model that reduced customer attrition by 15% for a telecommunications company.</li>
-<li>Optimized and fine-tuned deep learning algorithms, resulting in a 25% improvement in image recognition accuracy for an e-commerce platform, enhancing the customer experience and increasing sales conversion rates.</li>
-</ol>
 
 <h3 style="text-align: left;">Education</h3>
 <ol class="resume-list3" style="list-style-type: none; text-align: justify;">
