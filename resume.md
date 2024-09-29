@@ -42,9 +42,14 @@ image: '/assets/images/aronvisuals.jpg'
 </head>
 <body>
   <div class="container">
-    <img class="image" src="{{ "/assets/images/profile.jpeg" | relative_url }}" alt="Image">
+    <img class="image" src="{{ '/assets/images/profile.jpeg' | relative_url }}" alt="Image">
     <div class="text">
-      <p style="text-align: justify;">Results-driven Mobile Developer and ML Developer with 5+ years of experience in designing and developing innovative mobile and ML/DL applications. Proficient in Android platforms, Data Analytics, Data Pipelines, ML Model Developments, and MLOps, with a proven track record of timely delivery of high-quality products. Skilled in collaborating with cross-functional teams to implement user-friendly interfaces and enhance user experience. Seeking a challenging position to utilize my expertise and contribute to the success of a dynamic organization.</p>
+      <p style="text-align: justify;">Results-driven Mobile Developer and ML Developer with 5+ years of experience in designing
+            and developing innovative mobile and ML/DL applications. Proficient in Android platforms, 
+            Data Analytics, Data Pipelines, ML Model Developments, MLOps, and Generative AI LLMs, with a proven track record of 
+            timely delivery of high-quality products. Skilled in collaborating with cross-functional teams 
+            to implement user-friendly interfaces and enhance user experience. Seeking a challenging position
+            to utilize my expertise and contribute to the success of a dynamic organization.</p>
     </div>
   </div>
 </body>
@@ -55,7 +60,18 @@ image: '/assets/images/aronvisuals.jpg'
 <ol class="resume-list2" style="list-style-type: none">
 
 <div class="resumecontainer">
-<h5>01/2021 – PRESENT, LONDON, UK</h5>
+<h5>01/2024 – PRESENT, LAGOS, NIGERIA</h5>
+<h4>Fullstack Developer</h4>
+<h4>Votusol Limited</h4>
+</div>
+<ol style="list-style-type: none; text-align: justify;">
+<li>Backend/API development and deployment on Railway (PAAS)) and AWS (PAAS).</li>
+<li>Development of a multiplatform (Kotlin Multiplatform & Compose Multiplatform) application which includes the following OS: Android, iOS, macOS, Web, Windows, & Linux.</li>
+<li>Managed a team of five developers in the creation of system architecture, design patterns, business logic, UI design, and testing of VotBrains EduTech app.</li>
+<li>Help setup Votusol startup from development to production of VotBrains app</li></ol>
+
+<div class="resumecontainer">
+<h5>01/2021 – 03/2023, LONDON, UK</h5>
 <h4>Senior Android Developer</h4>
 <h4>Leytro Limited</h4>
 </div>
@@ -81,16 +97,15 @@ image: '/assets/images/aronvisuals.jpg'
 
 <h3 style="text-align: left;">Education</h3>
 <ol class="resume-list3" style="list-style-type: none; text-align: justify;">
-<li> 2005: B.Eng. in Mechanical Engineering, Federal University of Technology, Owerri, Imo State, Nigeria (Second Class, Upper Division).</li> 
-<li> 2001: West African Senior School Certificate Examination (WASSCE), Community Comprehensive Secondary School, Essien Udim, Akwa Ibom State.</li> 
+<li> 2005: B.Eng. in Mechanical Engineering, Federal University of Technology, Owerri, Imo State, Nigeria</li>
 </ol>
 
 <h3 style="text-align: left;">Skills</h3>
 <ol class="resume-list4" style="list-style-type: none">
-<li> Agile Development - Professional.</li>
-<li> iOS/Android Expertise - Professional.</li> 
+<li> Flutter - Professional.</li>
+<li> Android Expertise - Professional.</li> 
 <li> User Experience (UX) Design - Professional.</li> 
-<li> Team Leadership - Professional.</li>
+<li> Kotlin Multiplatform/Jetpack Compose - Professional.</li>
 <li> Kotlin - Professional.</li>
 <li> Java - Professional.</li>
 <li> Python - Professional.</li>
@@ -109,34 +124,26 @@ image: '/assets/images/aronvisuals.jpg'
 <li> Team collaboration.</li>
 </ol>
 
-<ol>
-<h3 style="text-align: left;">Hobbies</h3>
-<ol class="resume-list6" style="list-style-type: none">
-<li> Getting lost in a good book</li> 
-<li> Capturing moments </li>
-<li> Feeling the music </li>
-<li> Every kind of sport </li>
-<li> Programming with MATLAB </li>
-</ol>
 
 <h3 style="text-align: left;">Research - Highlights/Learning Ooutcomes</h3>
 <ol class="resume-list1" style="list-style-type: none; text-align: justify">
-<li> Design of Fuzzy Logic Controller (FLC) for controlling the Speed of DC Motor On-Load: A Case Study of the Lube-Oil Pump Motor of the H25 Hitachi Gas Turbine Generator at Bonny Oil and Gas Terminal. <b>Achievement:</b> Developed FLC controller for stepping up and stabilizing the speed of the motor which had already started going down without outright need for replacement of the motor.</li>
-<li> Design and implementation of belt conveyor lines speed synchronizer (PID) and Supervisory Controller for industrial applications, a case study of Champion’s Brewery, Uyo.
-<b>Achievement:</b> A new supervisory control was developed with local materials and integrated into the company’s existing manufacturing line which lowers production time per product, resulting in increased turnover.</li>
-<li> Data-Driven modeling of Natural Gas Dew Point from a Molecular Sieve Dehydration Bed using Adaptive Neuro-Fuzzy Inference System (ANFIS) and System Identification. 
-<b>Achievement:</b> Developed an ANFIS model for the client; they used the same to predict system yield and consequently made informed management decisions on performance and safety of the Molecular Sieve Dehydration Bed.</li>
-<li> Model-Based Design (MBD) of wind turbine: design included turbine blades, nacelle, pitch controller, yaw controller, supervisory controller, and generator and transmission grid. 
-<b>Achievement:</b> Developed a virtual model for an academic consulting company which was manufactured and used as study aid in further research in aerodynamics of wind turbine blades.</li> 
-<li> Development and deployment of standalone applications for predicting hand-off probability of communication systems. 
-<b>Achievement:</b> A MATLAB based software or application was developed for a client in the telecommunications industry.</li>
-<li> Data-Driven modeling of gas-fired turbines with application to temperature control using PID and Fuzzy Logic controllers: A case study of Ibom Power Plant. 
-<b>Achievement:</b> Worked as a Research Assistant with a Master student in the development of PID and FLC controllers from data gathered or logged down from live gas turbines, axial compressors and associated combustors.</li>
-<li> Design and modeling of Automatic Controlled Irrigation system using Richard’s equation and finite state machines (FSM). 
-<b>Achievement:</b> Developed and designed an automatic controlled irrigation system for rural farmers.</li>
-<li> Design and Modelling of Piezoelectric Energy Harvester Using Ambient Air Flow for Wireless Sensor Application. 
-<b>Achievement:</b> Currently working with a PhD student on the development of Piezoelectric Energy Harvester. Research is ongoing.</li> 
-<li> Modeling of Piezoelectric Energy Harvester Using Ambient Air Flow for Wireless Sensor Application. <b>Achievement:</b> Designed and modeled piezoelectric energy harvester with ANSYS Electromagnetics and co-simulation with MATLAB and Simulink.</li> 
-<li> Design, modeling, control, and analysis of three-phase AC permanent magnet electric motor with various controllers. 
-<b>Achievement:</b> Designed and modeled AC electric motor with ANSYS Electromagnetics, MATLAB and Simulink, and control the same with PID, Fuzzy Logic, Hybrid Fuzzy-PID, Hybrid Fuzzy-PID with Genetic Algorithm (GA), and Hybrid Fuzzy-PID with Particle Swarm Optimization (PSO) controllers</li>
+    <li> Design of Fuzzy Logic Controller (FLC) for controlling the Speed of DC Motor On-Load: A Case Study of the Lube-Oil Pump Motor of the H25 Hitachi Gas Turbine Generator at Bonny Oil and Gas Terminal. <b>Achievement:</b> Developed FLC controller for stepping up and stabilizing the speed of the motor which had already started going down without outright need for replacement of the motor.</li>
+    <li> Design and implementation of belt conveyor lines speed synchronizer (PID) and Supervisory Controller for industrial applications, a case study of Champion’s Brewery, Uyo.
+        <b>Achievement:</b> A new supervisory control was developed with local materials and integrated into the company’s existing manufacturing line which lowers production time per product, resulting in increased turnover.</li>
+    <li> Data-Driven modeling of Natural Gas Dew Point from a Molecular Sieve Dehydration Bed using Adaptive Neuro-Fuzzy Inference System (ANFIS) and System Identification. 
+        <b>Achievement:</b> Developed an ANFIS model for the client; they used the same to predict system yield and consequently made informed management decisions on performance and safety of the Molecular Sieve Dehydration Bed.</li>
+    <li> Model-Based Design (MBD) of wind turbine: design included turbine blades, nacelle, pitch controller, yaw controller, supervisory controller, and generator and transmission grid. 
+        <b>Achievement:</b> Developed a virtual model for an academic consulting company which was manufactured and used as study aid in further research in aerodynamics of wind turbine blades.</li> 
+    <li> Development and deployment of standalone applications for predicting hand-off probability of communication systems. 
+        <b>Achievement:</b> A MATLAB based software or application was developed for a client in the telecommunications industry.</li>
+    <li> Data-Driven modeling of gas-fired turbines with application to temperature control using PID and Fuzzy Logic controllers: A case study of Ibom Power Plant. 
+        <b>Achievement:</b> Worked as a Research Assistant with a Master student in the development of PID and FLC controllers from data gathered or logged down from live gas turbines, axial compressors and associated combustors.</li>
+    <li> Design and modeling of Automatic Controlled Irrigation system using Richard’s equation and finite state machines (FSM). 
+        <b>Achievement:</b> Developed and designed an automatic controlled irrigation system for rural farmers.</li>
+    <li> Design and Modelling of Piezoelectric Energy Harvester Using Ambient Air Flow for Wireless Sensor Application. 
+        <b>Achievement:</b> Currently working with a PhD student on the development of Piezoelectric Energy Harvester. Research is ongoing.</li> 
+    <li> Modeling of Piezoelectric Energy Harvester Using Ambient Air Flow for Wireless Sensor Application.
+        <b>Achievement:</b> Designed and modeled piezoelectric energy harvester with ANSYS Electromagnetics and co-simulation with MATLAB and Simulink.</li> 
+    <li> Design, modeling, control, and analysis of three-phase AC permanent magnet electric motor with various controllers. 
+        <b>Achievement:</b> Designed and modeled AC electric motor with ANSYS Electromagnetics, MATLAB and Simulink, and control the same with PID, Fuzzy Logic, Hybrid Fuzzy-PID, Hybrid Fuzzy-PID with Genetic Algorithm (GA), and Hybrid Fuzzy-PID with Particle Swarm Optimization (PSO) controllers</li>
 </ol>
