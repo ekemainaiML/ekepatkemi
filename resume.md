@@ -119,8 +119,7 @@ image: '/assets/images/aronvisuals.jpg'
 <li> Technical expertise.</li> 
 <li> Problem-solving skills.</li> 
 <li> Leadership abilities.</li> 
-<li> Strong communication.</li> 
-<li> Agile development.</li> 
+<li> Strong communication.</li>
 <li> Team collaboration.</li>
 </ol>
 

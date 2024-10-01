@@ -24,12 +24,13 @@ description: "Supervised machine learning, unsupervised machine learning, deep l
               topics which I often expand. As part of my work experience and personal research, 
               I had executed many projects in app development, machine learning, and research as 
               documented in the rest of my projects herewith, with links to the code, blog posts and deployed projects."
-email: "" #santacbax@gmail.com
+email: " "
 baseurl: "/ekepatkemi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ekemainai
 github_username:  ekemainai1
 linkedin_username: ekemini-stephen-48382535
+youtube_username: "@ekeministephen7033"
 
 # Build settings
 theme: minima

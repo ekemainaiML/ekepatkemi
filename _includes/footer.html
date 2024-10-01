@@ -1,20 +1,20 @@
 <footer class="site-footer h-card" style="background-color: rgb(167, 199, 186);">
   <data class="u-url" href="{{ '/ | relative_url }}"></data>
 
-  <div class="wrapper">
-
-    <div class="footer-col footer-col-1" style="text-align: justify;" >
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+  <div class="wrapper" style="align: center;">
+    <div class="footer-col footer-col-1" style="text-align: left;" >
+      <!-- <h2 class="footer-heading">Email us @: santacbax@gmail.com</h2> -->
         {%- if site.author -%}
             {{ site.author | escape }}
         {%- endif -%}
         {%- if site.email -%}
-        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
         {%- endif -%}
     </div>
-
-    <div class="footer-col footer-col-2" style="border: 5px solid black; width: 250px; overflow: hidden; white-space: nowrap;">
+    <div class="footer-col footer-col-2" style="border: 5px solid black; width: 300px; overflow: hidden; white-space: nowrap; margin: 0">
+      <h2 class="footer-heading">Email me at: santacbax@gmail.com</h2>
       {%- include social.html -%}
     </div>
+
   </div>
 </footer>
