@@ -25,7 +25,7 @@ permalink: /about/
     problems by applying advanced algorithms, data pre-processing techniques, and model tuning strategies. Through Kaggle,
     I’ve honed my skills in feature engineering, ensemble methods, and model optimization in challenging domains such as 
     image classification, text analysis, and tabular data predictions, which have significantly improved my practical 
-    ML experience. <a href="https://www.kaggle.com/ekeministephen">See my Kaggle profile here.</a></p>
+    ML experience. <a href="https://www.kaggle.com/ekeministephen" target="_blank">See my Kaggle profile here.</a></p>
 </div>
 </body>
 </html>
